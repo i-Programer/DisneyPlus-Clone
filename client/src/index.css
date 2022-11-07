@@ -1,0 +1,89 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color:white;
+  background: #0c111B;
+  overflow-x: hidden;
+}
+
+.pc-menu:hover .pc-menuItem{
+  display: block;
+}
+
+.imageGradient {
+  right: 21rem;
+}
+
+.fade-anim img {
+  animation: fadeAnim 0.5s ease-out;
+}
+
+.movieContainer{
+ width: 100%; 
+ transition: all 0.8s ease-in-out;
+}
+
+.movieListNavigation { 
+  height: 100% !important;
+  width: 5rem !important;
+  z-index: 10000;
+}
+
+.movieListNavigation.left{
+  left: 0;
+}
+
+.movieListNavigation.right{
+  right: 0;
+}
+
+@keyframes fadeAnim {
+  from {
+    opacity: 0;
+  }
+
+  to{
+    opacity: 1;
+  }
+}
+
+.listContainer::-webkit-scrollbar {
+  display: none;
+
+  -ms-overflow-style: none;
+
+  scrollbar-width: none;
+}
+
+.movieListItem,
+.movieListItemDetails {
+  transition: all 0.9s cubic-bezier(1, 0, 0, 0.99);
+  overflow: hidden;
+}
+
+.movieListItem:hover .movieListItemDetails{
+  @apply opacity-100 top-0;
+}
+
+.packageButton:focus .checkButton{
+  opacity: 1;
+}
+
+.userDropdown:focus-within .userItem{
+  display: block;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+

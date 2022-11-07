@@ -1,0 +1,34 @@
+{
+    "Navbar": {
+        "series": "Serial",
+        "movie": "Film",
+        "local": "Lokal",
+        "subscribe": "Langganan"
+    },
+
+    "Footer": {
+        "about": "Tentang Disney + Hotstar",
+        "policy": "Syarat Penggunaan",
+        "private": "Kebijakan Privasi(Baru)",
+        "qna": "Tanya Jawab",
+        "feedback": "Masukan",
+        "connect": "Terhubunglah dengan Kami",
+        "app": "Disney+ Hotstar App",
+
+        "copyright": "© 2022 Disney dan entitas-entitas terkaitnya. Hak Cipta Dilindungi Undang-Undang. © 2022 Entitas-entitas pemberi lisensi Disney. Hak Cipta Dilindungi Undang-Undang"
+    },
+
+    "Jumbotron": {
+        "moana": "Gadis muda menggunakan bakat navigasinya untuk berlayar ke pulau dongeng. Pahlawannya ikut dalam petualangannya, Maui setengah dewa yang legendaris.",
+        "doctorStrange": "Doctor Strange harus meminta bantuan dari sekutu lama dan baru saat dia melintasi realitas alternatif yang membingungkan dan berbahaya.",
+        "perception": "Dr. Daniel Pierce adalah profesor ilmu saraf unik dan eksentrik yang skizofrenia paranoidnya membantu dirinya memecahkan kejahatan untuk FBI."
+    },
+
+    
+    "WatchPage": {
+        "watch":"Tonton Film",
+        "watchlist": "DAFTAR TONTON",
+        "share": "BAGIKAN",
+        "available":"Tersedia Di"
+    }
+}

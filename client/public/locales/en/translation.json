@@ -1,0 +1,33 @@
+{
+    "Navbar": {
+        "series": "Series",
+        "movie": "Movies",
+        "local": "Local",
+        "subscribe": "Subscribe"
+    },
+
+    "Footer": {
+        "about": "About Disney+ Hotstars",
+        "policy": "Terms of Use",
+        "private": "Security Policy(New)",
+        "qna": "Q&A",
+        "feedback": "Feedback",
+        "connect": "Connect with Us",
+        "app": "Disney+ Hotstar App",
+
+        "copyright": "© 2022 Disney and its related entities. All Rights Reserved. © 2022 Disney's licensors. All Rights Reserved"
+    },
+
+    "Jumbotron": {
+        "moana":"The young girl uses her navigational talent to ship to a fairy tale island. His hero joins him on his adventure, the legendary demigod Maui.",
+        "doctorStrange":"When the Multiverse is unlocked, Doctor Strange must enlist help from old and new allies in order to confront a surprising adversary.",
+        "perception":"Dr Daniel Pierce is a unique and eccentric neuroscience professor whose paranoid schizophrenia helps him solve crimes for the FBI."
+    },
+
+    "WatchPage": {
+        "watch":"Watch Film",
+        "watchlist": "WATCHLIST",
+        "share": "SHARE",
+        "available":"Available In"
+    }
+}
